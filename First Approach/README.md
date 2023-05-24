@@ -5,3 +5,5 @@
   <li>First Approach US: Analysis run on the US market</li>
   <li>Second item</li>
 </ul>
+
+The second notebook will enable you to re-create the figure 6 from the paper.
