@@ -2,8 +2,8 @@
  
  The folder contains the following two notebooks:
 <ul>
-  <li>First Approach US: Analysis run on the US market</li>
-  <li>Second item</li>
+  <li>US market: Analysis run on the US market</li>
+  <li>All countries</li>
 </ul>
 
-The second notebook will enable you to re-create the figure 6 from the paper.
+The second notebook will enable you to re-create the figure 6 for any countries in our dataset. Fuhermore, with this notebook you can recreate figure 2, 3, 7 and 8 from the paper.
